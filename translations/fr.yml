@@ -1,0 +1,118 @@
+# tab name
+stayingaccessible.tab.title: Accessibilité
+
+# intro
+stayingaccessible.tab.intro.headline: Maintenez les bonnes pratiques d'accessibilité sur votre site web
+stayingaccessible.tab.intro.text: |
+  Certaines personnes handicapées naviguent sur le web d'une manière différente de la vôtre. Le web est un espace public et chacun·e doit pouvoir y trouver sa place. 
+
+  Une fois que votre site a été conçu et développé de manière accessible, adopter quelques bonnes pratiques d'édition lui permettra de le rester !
+
+# images
+stayingaccessible.tab.images.headline: 🖼️ Décrivez les images
+stayingaccessible.tab.images.text: |
+  Quand vous ajoutez une image dans un article ou une page, décrivez-la pour les personnes qui ne peuvent pas ou pas bien la voir.
+
+  ### Pourquoi ?
+
+  Lorsqu'une personne mal ou non voyante consulte votre site, elle peut utiliser des technologies d'assistance qui vont lui décrire le contenu.
+
+  Ces technologies n‘interprètent pas correctement les images. 
+
+  En décrivant bien vos images, vous permettez à toutes et tous de recevoir la même information.
+
+  ### Comment ?
+
+  **Si l'image transmet une information** pertinente pour la compréhension du contenu, transmettez la même information par un texte alternatif.
+
+  **Le texte alternatif** ou « alt », est une courte description informative de l’image. Vous pouvez l’écrire dans les champs prévus à cet effet sur votre site. Ces champs sont souvent intitulés « Texte alternatif » ou « Description de l’image ».
+
+  **Décrivez brièvement** l'information contenue dans l'image. Demandez-vous ce qui est pertinent, et ce qui ne l'est pas, et partez toujours du contexte présent.
+
+  (link: https://www.w3.org/WAI/tutorials/images/decision-tree/ text: L'arbre de décision de la Web Accessibility Initiative target: _blank title: En anglais) peut vous aider à décider si et comment vous devez décrire votre image.
+
+  Le tutoriel Images de la WAI peut vous aider à mieux (link: https://www.w3.org/WAI/tutorials/images/ text: comprendre le texte alternatif target: _blank).
+
+  ### À retenir
+
+  - **Décrivez les images informatives** : transmettez l’information sous une autre forme pour les personnes qui ne peuvent pas voir les images.
+  - **Ne décrivez pas les images décoratives** : cela dégrade l’expérience des personnes handicapées en ajoutant des éléments inutiles.
+  - **Soyez pertinent** : la pertinence d'une image et de sa description dépendent de son contexte.
+  - **Soyez bref** : un texte alternatif trop long peut être coupé par les technologies d'assistance, ou créer une surcharge d'informations.
+  - **N’utilisez pas le texte alternatif pour votre référencement** : vous vous adressez à des humain·es. Si le texte alternatif peut améliorer votre référencement, c’est juste un bonus.
+
+# links
+stayingaccessible.tab.links.headline: 🔗 Indiquez clairement la destination des liens
+stayingaccessible.tab.links.text: |
+  Quand vous insérez des liens ou boutons, indiquez vers où et vers quoi ils mènent.
+  
+  ### Pourquoi ?
+
+  Les personnes qui parcourent votre site pourront décider facilement si elles veulent cliquer sur un lien.
+
+  Les personnes qui utilisent des technologies d'assistance peuvent naviguer dans la liste des liens d'une page web, isolés de leur contexte. Une succession de liens intitulés _Cliquez ici_ ne leur sera pas très utile.
+
+  En écrivant des liens informatifs, vous aiderez chacun·e à s’orienter.
+
+  ### Comment ?
+
+  L’intitulé d’un lien est la partie sur laquelle on clique pour suivre le lien. **Il doit être compréhensible sans la phrase ou les élements qui l’entourent**.
+
+  Par exemple, dans la phrase :
+
+  « En savoir plus sur ma recette de tarte aux pommes »
+
+  on placera le lien sur « ma recette de tarte aux pommes » plutôt que sur « en savoir plus ».
+
+  Vous pouvez aussi donner des **informations supplémentaires sur la destination du lien**, par exemple (les parties soulignées représentent un lien) :
+
+  - « J’ai appris beaucoup de choses dans cet <u>article sur les requins (en anglais)</u> »
+  - « Je vous recommande cette <u>vidéo sur la cuisson du pain (5 minutes)</u>. »
+  - « Remplissez notre <u>questionnaire de satisfaction (nouvelle fenêtre)</u>. »
+
+  ### À retenir
+
+  - **Écrivez des intitulés de liens informatifs**
+  - **Ne vous reposez pas sur le texte qui entoure le lien** : les utilisateurs peuvent consulter vos liens hors contexte.
+  - **Ajoutez des informations pertinentes** : indiquez par exemple si le lien va s'ouvrir dans une nouvelle fenêtre, ou si la page de destination est dans une autre langue.
+
+# headings
+stayingaccessible.tab.headings.headline: ✍️ Choisissez vos titres avec soin
+stayingaccessible.tab.headings.text: |
+  Quand vous écrivez un article ou une description de votre activité, divisez le texte en sections et utilisez les titres et sous-titres pour guider la lecture. 
+
+  ### Pourquoi ?
+
+  Les personnes qui utilisent leurs yeux pour parcourir vos textes pourront survoler les titres pour choisir les sections qui les intéressent.
+
+  Les personnes qui utilisent des technologies d’assistance pourront faire de même en obtenant une liste des titres.
+
+  Vos textes seront **plus faciles à lire et à comprendre** pour toutes et tous. 
+
+  ### Comment ?
+
+  **Si votre article ou page dépasse plusieurs paragraphes**, divisez le texte en plusieurs sections logiques et insérez des titres intermédiaires.
+
+  Écrivez des titres qui donnent un aperçu du sujet traité. Demandez-vous quelle est l’idée principale qui ressort de chaque section.
+
+  ### À retenir
+
+  - **Respectez une structure logique** : un titre de niveau 1 ne doit pas être directement suivi par un titre de niveau 3. Vos titres doivent former une structure logique pour faciliter la compréhension du contenu.
+
+  - **Écrivez des titres pertinents** : transmettez l'idée principale de chaque section.
+
+# sidebar disclaimer : edit according to your specific context
+stayingaccessible.tab.disclaimer.headline: Conformité
+stayingaccessible.tab.disclaimer.text: |
+  **Vous pouvez être soumis à des obligations légales en matière d'accessibilité**. Si c’est le cas, respecter ces bonnes pratiques n'est pas suffisant pour remplir ces obligations.
+
+  Si vous êtes en France, ce lien peut vous aider à (link: https://rgaa.info/ text: vérifier vos obligations en matière d’accessibilité target: _blank).
+
+  Des professionnel·les peuvent vous aider à rendre votre site accessible à toutes et tous.
+
+# going further
+stayingaccessible.tab.further.headline: Aller plus loin
+stayingaccessible.tab.further.text: |
+  Cette page est inspirée du (link: https://www.w3.org/WAI/tips/writing/#create-transcripts-and-captions-for-multimedia text: guide pour écrire accessible (en anglais, nouvelle fenêtre) target: _blank) de la Web Accessibility Initiative. Vous y trouverez notamment des éléments sur les contenus vidéos et audios, qui ne sont pas mentionnés ici.
+
+  Pour améliorer l’accessibilité de vos contenus web, intéressez-vous surtout à l’expérience  des personnes handicapées. Ces (link: https://tetralogical.com/blog/2021/12/24/browsing-with-assistive-technology-videos/ text: vidéos de personnes qui naviguent sur le web avec des technologies d’assistance target: _blank) peuvent vous aider à mieux comprendre cette expérience.
