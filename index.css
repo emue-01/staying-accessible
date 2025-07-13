@@ -3,30 +3,24 @@
     line-height: 1.6;
     font-size: var(--text-md);
 }
-
 :where(.k-section-name-SAintro, .k-section-name-SAimages, .k-section-name-SAlinks, .k-section-name-SAheadings, .k-section-name-SAdisclaimer, .k-section-name-SAfurther) .k-text ul li + li {
     margin-block-start: var(--spacing-2);
 }
-
 :where(.k-section-name-SAintro, .k-section-name-SAimages, .k-section-name-SAlinks, .k-section-name-SAheadings, .k-section-name-SAdisclaimer, .k-section-name-SAfurther) .k-text * + p {
     margin-block-start: var(--spacing-4);
 }
-
 :where(.k-section-name-SAintro, .k-section-name-SAimages, .k-section-name-SAlinks, .k-section-name-SAheadings, .k-section-name-SAdisclaimer, .k-section-name-SAfurther) .k-text * + h3 {
     margin-block-start: var(--spacing-5);
 }
-
 :where(.k-section-name-SAintro, .k-section-name-SAimages, .k-section-name-SAlinks, .k-section-name-SAheadings, .k-section-name-SAdisclaimer, .k-section-name-SAfurther) h2.k-section-label {
     font-size: var(--text-2xl);
     margin-block-end: var(--spacing-4);
 }
-
 .k-section-name-intro .k-box {
     background-color: transparent;
     box-shadow: none;
     padding: 0;
 }
-
 :where(.k-section-name-SAintro, .k-section-name-SAimages, .k-section-name-SAlinks, .k-section-name-SAheadings, .k-section-name-SAdisclaimer, .k-section-name-SAfurther) [data-theme="text"] .k-text a {
     color: var(--color-blue-750);
 }
