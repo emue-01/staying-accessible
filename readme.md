@@ -12,8 +12,30 @@ It does nothing except making it easier for you to add a panel tab with said goo
 
 ## Installation
 
+### Installation via composer
+
+`composer require emue-01/staying-accessible`
+
+### Installation via git submodule
+
+`git submodule add https://github.com/emue-01/staying-accessible.git site/plugins/staying-accessible`
+
+### Manual Installation
+
+- download the source code
+- copy the folder to site/plugins/staying-accessible.
+
 ## Usage
 
-## License
+Simply add the accessibility tab to your site blueprint in `site/blueprints/site.yml` like this:
+accessibility: tabs/accessibility
 
-[MIT License](/LICENSE.md)
+There are no configuration options.
+
+You can override or add fields as you would normally do with a kirby blueprint.
+
+## Reach out
+
+Don't hesitate to reach out if you have any questions, or if you want to talk about web accessibility! 
+
+[Mastodon](https://mastodon.design/@emue)
