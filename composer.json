@@ -1,6 +1,6 @@
 {
     "name": "emue/staying-accessible",
-    "description": "A very simple Kirby CMS plugin to help website contributors maintain good accessibility practices when editing content.",
+    "description": "A very basic Kirby CMS plugin to help website contributors maintain good accessibility practices when editing content.",
     "type": "kirby-plugin",
     "version": "1.0.0",
     "require": {
@@ -11,8 +11,8 @@
     "authors": [
         {
             "name": "Emilie Nguyen Van Yen",
-            "email": "contact@emue-design.fr"
+            "email": "contact@emue-design.fr",
+            "homepage": "https://emue-design.fr"
         }
-    ],
-    "minimum-stability": "stable"
+    ]
 }
