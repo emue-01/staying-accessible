@@ -1,6 +1,37 @@
-title: staying-accessible-tab-title
+label: stayingaccessible.tab.title
 icon: accessibility
 columns:
   - width: 2/3
-    fields:
-      
+    sections:
+      SAintro:
+        type: info       
+        headline: stayingaccessible.tab.intro.headline
+        text: stayingaccessible.tab.intro.text
+        theme: text
+      SAimages:
+        type: info
+        theme: text
+        headline: stayingaccessible.tab.images.headline
+        text: stayingaccessible.tab.images.text
+      SAlinks:
+        type: info
+        theme: text
+        headline: stayingaccessible.tab.links.headline
+        text: stayingaccessible.tab.links.text
+      SAheadings:
+        type: info
+        theme: text
+        headline: stayingaccessible.tab.headings.headline
+        text: stayingaccessible.tab.headings.text
+  - width: 1/3
+    sticky: true
+    sections:
+      SAdisclaimer:
+        type: info
+        headline: stayingaccessible.tab.disclaimer.headline
+        text: stayingaccessible.tab.disclaimer.text
+      SAfurther:
+        type: info
+        theme: passive
+        headline: stayingaccessible.tab.further.headline
+        text: stayingaccessible.tab.further.text
