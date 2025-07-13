@@ -14,7 +14,7 @@ It does nothing except making it easier for you to add a panel tab with said goo
 
 ### Installation via composer
 
-`composer require emue-01/staying-accessible`
+`composer require emue/staying-accessible`
 
 ### Installation via git submodule
 
